@@ -2,7 +2,7 @@ library(DBI)
 library(dplyr)
 
 # set the working directory that contains the files
-setwd("~/Documents/Programming_for_DS/Harvard Dataverse/Assignment 03/")
+setwd("~/file_path/")
 
 # part 2
 # ======== create the database ========
